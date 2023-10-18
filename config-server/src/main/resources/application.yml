@@ -1,0 +1,13 @@
+server:
+  port: 8084
+spring:
+  profiles:
+    active: native, git
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/sreypheasin/microv2-hotel-config-server
+          clone-on-start: true

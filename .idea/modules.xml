@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hetel-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hetel-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservicev2.iml" filepath="$PROJECT_DIR$/.idea/microservicev2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rating-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rating-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/user-service.main.iml" />
+    </modules>
+  </component>
+</project>
